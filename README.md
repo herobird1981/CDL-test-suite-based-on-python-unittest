@@ -1,1 +1,1 @@
-# CDL-test-suite-based-on-python-unittest
+# The purpose is to setup a common test framework based on python unit.
